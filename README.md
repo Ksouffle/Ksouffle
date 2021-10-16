@@ -1,5 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksouffle&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ethan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ksoup&custom_title=In%20The%20Last%207%20Days)](https://github.com/anuraghazra/github-readme-stats)
+
+Since Oct 4, 2021:  
+![wakatime](https://wakatime.com/badge/user/4736981b-88f8-47b1-b017-aa9aba7f1886.svg)
 <!--
 **Ksouffle/Ksouffle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
