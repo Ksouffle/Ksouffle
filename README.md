@@ -1,15 +1,31 @@
 <!-- ### Hi there 👋 -->
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksouffle&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## Heyo 👋  
+I'm a software engineer specialized in web development interested in all things development.
 
-[![Ethan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ksoup&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+### 🔭 I’m currently working on:
+* Scribble Stadium at Lambda School
+  * Scribble Stadium is a web app for kids aiming to gamify story telling to get kids more excited about creativity in literature.
 
+### 🧰 Familiar technologies:
+* JavaScript
+* Sass
+* CSS
+* HTML
+
+### 🧠 My learning priorities:
+* Improve CSS and Sass skills
+* Improve understanding of data structures and algorithms
+* Improve React skills
+
+### 📡 Tech on my radar:
+* Svelte
+* Next.js
+
+### ♟️ Hobbies:
+* Langauge learning
+* Chess
+* Fitness
 <!--
-**Ksouffle/Ksouffle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
