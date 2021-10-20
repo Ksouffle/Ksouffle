@@ -4,13 +4,17 @@ I'm a software engineer specialized in web development interested in all things 
 
 ### 🔭 I’m currently working on:
 * Scribble Stadium at Lambda School
-  * Scribble Stadium is a web app for kids aiming to gamify story telling to get kids more excited about creativity in literature.
+  * Scribble Stadium is an app aiming to gamify story telling to get kids more excited about creativity in literature.
 
 ### 🧰 Familiar technologies:
-* JavaScript
-* Sass
-* CSS
-* HTML
+**Frontend**: React, Redux, Sass  
+**Backend**: Node, Express, MongoDB, PostgreSQL, Prisma, Knex
+
+### 💪 My strongest langauges:
+1. JavaScript
+2. Sass
+3. CSS
+4. HTML
 
 ### 🧠 My learning priorities:
 * Improve CSS and Sass skills
