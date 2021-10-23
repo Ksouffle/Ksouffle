@@ -10,21 +10,6 @@ I'm a software engineer specialized in web development interested in all things 
 **Frontend**: React, Redux, Sass  
 **Backend**: Node, Express, MongoDB, PostgreSQL, Prisma, Knex
 
-### 💪 My strongest langauges:
-1. JavaScript
-2. Sass
-3. CSS
-4. HTML
-
-### 🧠 My learning priorities:
-* Improve CSS and Sass skills
-* Improve understanding of data structures and algorithms
-* Improve React skills
-
-### 📡 Tech on my radar:
-* Svelte
-* Next.js
-
 ### ♟️ Hobbies:
 * Langauge learning
 * Chess
