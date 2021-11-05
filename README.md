@@ -9,6 +9,7 @@ I'm a software engineer specialized in web development interested in all things 
 ### 🧰 Familiar technologies:
 **Frontend**: React, Redux, Sass  
 **Backend**: Node, Express, MongoDB, PostgreSQL, Prisma, Knex
+**Languages**: JavaScript, HTML, CSS, Python
 
 ### ♟️ Hobbies:
 * Langauge learning
