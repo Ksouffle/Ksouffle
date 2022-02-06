@@ -2,9 +2,9 @@
 ## Heyo 👋  
 I'm a software engineer specialized in web development interested in all things development.
 
-### 🔭 I’m currently working on:
+<!-- ### 🔭 I’m currently working on:
 * Scribble Stadium at Lambda School
-  * Scribble Stadium is an app aiming to gamify story telling to get kids more excited about creativity in literature.
+  * Scribble Stadium is an app aiming to gamify story telling to get kids more excited about creativity in literature. -->
 
 ### 🧰 Familiar technologies:
 **Frontend**: React, Redux, Sass  
