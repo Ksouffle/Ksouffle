@@ -2,6 +2,10 @@
 I'm a software engineer specialized in web development interested in all things development.
 
 [
+![wakatime](https://wakatime.com/badge/user/4736981b-88f8-47b1-b017-aa9aba7f1886.svg)
+](https://wakatime.com/@Ksoup)
+
+[
 ![Ethan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ksoup&hide_title=true&langs_count=10)
 ](https://wakatime.com/@Ksoup)
 
